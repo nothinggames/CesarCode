@@ -1,0 +1,15 @@
+{
+	"id": "CESARCODE",
+	"name": "CesarCode",
+	"description": "Tu changeras",
+	"developer": "Niarlatotep",
+	"version": "0.0.1",
+	"build": "001",
+	"folder": "./Apps/CesarCode",
+	"exe": "Code_cesart.exe",
+	"size": "18",
+	"extract": "CesarCode-master",
+	"version-url": "https://raw.githubusercontent.com/nothinggames/CesarCode/master/CesarCode.json",
+	"download-url": "https://github.com/nothinggames/CesarCode/archive/master.zip",
+	"logo": "https://raw.githubusercontent.com/nothinggames/CesarCode/master/CesarCode.png"
+}
