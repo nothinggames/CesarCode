@@ -1,10 +1,10 @@
 {
 	"id": "CESARCODE",
 	"name": "CesarCode",
-	"description": "Tu changeras",
+	"description": "Voici une appli pour coder et décoder des messages.",
 	"developer": "Niarlatotep",
-	"version": "0.0.2",
-	"build": "002",
+	"version": "1.0.0",
+	"build": "004",
 	"folder": "./Apps/CesarCode",
 	"exe": "Code_cesar.exe",
 	"size": "18",
